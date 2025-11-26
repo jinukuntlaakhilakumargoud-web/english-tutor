@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow - AI English Coach",
+  "description": "An interactive voice-based English learning assistant that helps correct grammar and improve communication skills in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
